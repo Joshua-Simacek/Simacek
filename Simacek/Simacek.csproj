@@ -57,6 +57,7 @@
     <Compile Include="PagedList\PagedList.cs" />
     <Compile Include="PagedList\PagedListExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflection\ReflectionExtensions.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
