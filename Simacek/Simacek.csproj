@@ -51,6 +51,11 @@
     <Compile Include="Linq\Order.cs" />
     <Compile Include="Linq\OrderByExtensions.cs" />
     <Compile Include="Linq\SearchExtensions.cs" />
+    <Compile Include="PagedList\IOrderedPagedList.cs" />
+    <Compile Include="PagedList\IPagedList.cs" />
+    <Compile Include="PagedList\OrderedPagedList.cs" />
+    <Compile Include="PagedList\PagedList.cs" />
+    <Compile Include="PagedList\PagedListExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
