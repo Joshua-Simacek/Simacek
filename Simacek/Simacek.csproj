@@ -45,6 +45,7 @@
     <Compile Include="Collections\IEnumerableExtensions.cs" />
     <Compile Include="Collections\NameValueCollectionExtensions.cs" />
     <Compile Include="Data\DataSetExtensions.cs" />
+    <Compile Include="Data\DataTableExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
