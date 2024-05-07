@@ -47,6 +47,8 @@
     <Compile Include="Data\DataSetExtensions.cs" />
     <Compile Include="Data\DataTableExtensions.cs" />
     <Compile Include="DateTime\DateTimeExtensions.cs" />
+    <Compile Include="Linq\Order.cs" />
+    <Compile Include="Linq\OrderByExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
