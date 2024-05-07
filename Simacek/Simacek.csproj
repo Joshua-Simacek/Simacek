@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Collections\DictionaryExtensions.cs" />
     <Compile Include="Collections\IEnumerableExtensions.cs" />
+    <Compile Include="Collections\NameValueCollectionExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
